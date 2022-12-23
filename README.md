@@ -43,7 +43,7 @@ Labels
 1. Using machine learning to solve network attacking .
 2. Use MLP model with feature selection “ANOVA, mutual” and Dimensionality reduction “PCA” to select best  number of component.
 3. Select best parameters for MLP model that can achieve highest accuracy.
-4.It can help to distingue between Anomaly users and attackers.
+4. It can help to distingue between Anomaly users and attackers.
 
 
 ## contact 
